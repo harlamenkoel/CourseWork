@@ -1,5 +1,5 @@
 public class CourseWork {
-    private static final Employee[] EMPLOYEES = new Employee[10];
+    private static Employee[] EMPLOYEES = new Employee[10];
 
     public static void main(String[] args) {
         EMPLOYEES[0] = new Employee("Иванов Иван Иванович", 2, 25_000);
